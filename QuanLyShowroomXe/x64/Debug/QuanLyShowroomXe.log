@@ -1,0 +1,8 @@
+﻿  Main.cpp
+  Showroom.cpp
+D:\Ky Thuat Lap Trinh + Lap Trinh Huong Doi Tuong ( C++)\Visual\51_NguyenThanhThien_054205000756\QuanLyShowroomXe\Showroom.cpp(29,37): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+  Xe.cpp
+  XeOToKhach.cpp
+  XeOToTai.cpp
+  Generating Code...
+  QuanLyShowroomXe.vcxproj -> D:\Ky Thuat Lap Trinh + Lap Trinh Huong Doi Tuong ( C++)\Visual\51_NguyenThanhThien_054205000756\x64\Debug\QuanLyShowroomXe.exe

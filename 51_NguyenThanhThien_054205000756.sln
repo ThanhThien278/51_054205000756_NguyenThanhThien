@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Chuong5QuanLySach", "Chuong
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QuanLyTienLuong", "QuanLyTienLuong\QuanLyTienLuong.vcxproj", "{510F0BD2-6168-4F87-B624-9B2BA92FC344}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QuanLyShowroomXe", "QuanLyShowroomXe\QuanLyShowroomXe.vcxproj", "{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{510F0BD2-6168-4F87-B624-9B2BA92FC344}.Release|x64.Build.0 = Release|x64
 		{510F0BD2-6168-4F87-B624-9B2BA92FC344}.Release|x86.ActiveCfg = Release|Win32
 		{510F0BD2-6168-4F87-B624-9B2BA92FC344}.Release|x86.Build.0 = Release|Win32
+		{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}.Debug|x64.ActiveCfg = Debug|x64
+		{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}.Debug|x64.Build.0 = Debug|x64
+		{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}.Debug|x86.ActiveCfg = Debug|Win32
+		{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}.Debug|x86.Build.0 = Debug|Win32
+		{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}.Release|x64.ActiveCfg = Release|x64
+		{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}.Release|x64.Build.0 = Release|x64
+		{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}.Release|x86.ActiveCfg = Release|Win32
+		{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
