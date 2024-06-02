@@ -17,7 +17,7 @@ public:
     Phong(string maPhong, string dayNha, double dienTich, int soBongDen);
     virtual ~Phong() = default;
 
-    virtual bool datChuan() const;
+    virtual bool duAnhSang() const;
     virtual void inThongTin() const;
 
     string getMaPhong() const;

@@ -3,8 +3,8 @@
 PhongMayTinh::PhongMayTinh(string maPhong, string dayNha, double dienTich, int soBongDen, int soMayTinh)
     : Phong(maPhong, dayNha, dienTich, soBongDen), soMayTinh(soMayTinh) {}
 
-bool PhongMayTinh::datChuan() const {
-    return Phong::datChuan() && (dienTich / soMayTinh >= 1.5);
+bool PhongMayTinh::duAnhSang() const {
+    return Phong::duAnhSang() && (dienTich / soMayTinh >= 1.5);
 }
 
 void PhongMayTinh::inThongTin() const {

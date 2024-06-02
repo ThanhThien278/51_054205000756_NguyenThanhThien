@@ -10,7 +10,7 @@ private:
 
 public:
     PhongMayTinh(string maPhong, string dayNha, double dienTich, int soBongDen, int soMayTinh);
-    bool datChuan() const override;
+    bool duAnhSang() const override;
     void inThongTin() const override;
     void capNhatSoMayTinh(int soMayTinh);
     int getSoMayTinh() const;

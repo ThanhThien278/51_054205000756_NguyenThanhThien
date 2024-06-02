@@ -10,7 +10,7 @@ private:
 
 public:
     PhongLyThuyet(string maPhong, string dayNha, double dienTich, int soBongDen, bool coMayChieu);
-    bool datChuan() const override;
+    bool duAnhSang() const override;
     void inThongTin() const override;
 };
 

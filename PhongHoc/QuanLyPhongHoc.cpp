@@ -70,7 +70,7 @@ void QuanLyPhongHoc::inDanhSachPhongHoc() const {
 vector<Phong*> QuanLyPhongHoc::layDanhSachPhongHocDatChuan() const {
     vector<Phong*> danhSachDatChuan;
     for (Phong* phong : danhSachPhongHoc) {
-        if (phong->datChuan()) {
+        if (phong->duAnhSang()) {
             danhSachDatChuan.push_back(phong);
         }
     }

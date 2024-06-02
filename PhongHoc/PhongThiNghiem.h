@@ -12,7 +12,7 @@ private:
 
 public:
     PhongThiNghiem(string maPhong, string dayNha, double dienTich, int soBongDen, string chuyenNganh, int sucChua, bool coBonRua);
-    bool datChuan() const override;
+    bool duAnhSang() const override;
     void inThongTin() const override;
 };
 

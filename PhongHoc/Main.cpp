@@ -9,7 +9,7 @@ int main() {
     // Tao danh sach phong hoc mau
     qlph.taoDanhSachPhongHocMau();
 
-    // Hi?n th? menu
+    // Hien thi menu
     qlph.menu();
 
     return 0;

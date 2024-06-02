@@ -3,7 +3,7 @@
 Phong::Phong(string maPhong, string dayNha, double dienTich, int soBongDen)
     : maPhong(maPhong), dayNha(dayNha), dienTich(dienTich), soBongDen(soBongDen) {}
 
-bool Phong::datChuan() const {
+bool Phong::duAnhSang() const {
     return soBongDen >= dienTich / 10;
 }
 

@@ -3,8 +3,8 @@
 PhongThiNghiem::PhongThiNghiem(string maPhong, string dayNha, double dienTich, int soBongDen, string chuyenNganh, int sucChua, bool coBonRua)
     : Phong(maPhong, dayNha, dienTich, soBongDen), chuyenNganh(chuyenNganh), sucChua(sucChua), coBonRua(coBonRua) {}
 
-bool PhongThiNghiem::datChuan() const {
-    return Phong::datChuan() && coBonRua;
+bool PhongThiNghiem::duAnhSang() const {
+    return Phong::duAnhSang() && coBonRua;
 }
 
 void PhongThiNghiem::inThongTin() const {
