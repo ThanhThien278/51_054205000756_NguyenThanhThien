@@ -1,44 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\Showroom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\Showroom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\Xe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\Xe.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\XeOToTai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\XeOToTai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\XeOToKhach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\XeOToKhach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\Xe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\Xe.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\Showroom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\Showroom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\XeOToTai.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\XeOToTai.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\XeOToKhach.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{001FA49A-3B49-4DD5-AAC7-14CB8FD40785}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\XeOToKhach.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\51_NguyenThanhThien_054205000756\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -46,124 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Showroom.cpp",
-              "DocumentMoniker": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\Showroom.cpp",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\Showroom.cpp",
-              "ToolTip": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\Showroom.cpp",
-              "RelativeToolTip": "QuanLyShowroomXe\\Showroom.cpp",
-              "ViewState": "AQIAACABAAAAAAAAAAAAwD0BAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-24T11:27:23.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Showroom.h",
-              "DocumentMoniker": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\Showroom.h",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\Showroom.h",
-              "ToolTip": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\Showroom.h",
-              "RelativeToolTip": "QuanLyShowroomXe\\Showroom.h",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBkAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-24T11:27:10.037Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\Main.cpp",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\Main.cpp",
-              "ToolTip": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\Main.cpp",
-              "RelativeToolTip": "QuanLyShowroomXe\\Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-22T04:10:54.84Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "XeOToKhach.cpp",
-              "DocumentMoniker": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\XeOToKhach.cpp",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\XeOToKhach.cpp",
-              "ToolTip": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\XeOToKhach.cpp",
-              "RelativeToolTip": "QuanLyShowroomXe\\XeOToKhach.cpp",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAwDEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-22T03:08:37.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "XeOToTai.cpp",
-              "DocumentMoniker": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\XeOToTai.cpp",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\XeOToTai.cpp",
-              "ToolTip": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\XeOToTai.cpp",
-              "RelativeToolTip": "QuanLyShowroomXe\\XeOToTai.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-22T03:08:19.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Xe.cpp",
-              "DocumentMoniker": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\Xe.cpp",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\Xe.cpp",
-              "ToolTip": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\Xe.cpp",
-              "RelativeToolTip": "QuanLyShowroomXe\\Xe.cpp",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAwCwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-22T03:08:10.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "XeOToKhach.h",
-              "DocumentMoniker": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\XeOToKhach.h",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\XeOToKhach.h",
-              "ToolTip": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\XeOToKhach.h",
-              "RelativeToolTip": "QuanLyShowroomXe\\XeOToKhach.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-22T03:07:43.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "XeOToTai.h",
-              "DocumentMoniker": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\XeOToTai.h",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\XeOToTai.h",
-              "ToolTip": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\XeOToTai.h",
-              "RelativeToolTip": "QuanLyShowroomXe\\XeOToTai.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-22T03:07:33.308Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Xe.h",
-              "DocumentMoniker": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\Xe.h",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\Xe.h",
-              "ToolTip": "D:\\Ky Thuat Lap Trinh \u002B Lap Trinh Huong Doi Tuong ( C\u002B\u002B)\\Visual\\51_NguyenThanhThien_054205000756\\QuanLyShowroomXe\\Xe.h",
-              "RelativeToolTip": "QuanLyShowroomXe\\Xe.h",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAIwCYAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-22T03:07:20.75Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
